@@ -3,191 +3,191 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 Successfully closed input streams for data and object files!
 imageElementShouldBeDisplayed(): The windows img is |oneImg|
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |oneImg|
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
 imageElementShouldBeDisplayed(): The windows img is |plusImg|
-getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|
+getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|
 findElementByImage(): Starting to wait for plusImg
 findElementByImage() wait loop: Stil looking for plusImg
-getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|
+getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|
 findElementByImage(): Starting to wait for plusImg
 findElementByImage() wait loop: Stil looking for plusImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |plusImg|
-getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|
+getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|
 findElementByImage(): Starting to wait for plusImg
 findElementByImage() wait loop: Stil looking for plusImg
-getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Plus.png|
+getRefImageAsString(): The refImg is|plusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Plus.png|
 findElementByImage(): Starting to wait for plusImg
 findElementByImage() wait loop: Stil looking for plusImg
 imageElementShouldBeDisplayed(): The windows img is |sevenImg|
-getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|
+getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|
 findElementByImage(): Starting to wait for sevenImg
 findElementByImage() wait loop: Stil looking for sevenImg
-getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|
+getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|
 findElementByImage(): Starting to wait for sevenImg
 findElementByImage() wait loop: Stil looking for sevenImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |sevenImg|
-getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|
+getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|
 findElementByImage(): Starting to wait for sevenImg
 findElementByImage() wait loop: Stil looking for sevenImg
-getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|
+getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|
 findElementByImage(): Starting to wait for sevenImg
 findElementByImage() wait loop: Stil looking for sevenImg
 imageElementShouldBeDisplayed(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 getCalculatorResultText(): The calculator result is 8
 Successfully closed input streams for data and object files!
 imageElementShouldBeDisplayed(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 imageElementShouldBeDisplayed(): The windows img is |minusImg|
-getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|
+getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|
 findElementByImage(): Starting to wait for minusImg
 findElementByImage() wait loop: Stil looking for minusImg
-getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|
+getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|
 findElementByImage(): Starting to wait for minusImg
 findElementByImage() wait loop: Stil looking for minusImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |minusImg|
-getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|
+getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|
 findElementByImage(): Starting to wait for minusImg
 findElementByImage() wait loop: Stil looking for minusImg
-getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Minus.png|
+getRefImageAsString(): The refImg is|minusImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Minus.png|
 findElementByImage(): Starting to wait for minusImg
 findElementByImage() wait loop: Stil looking for minusImg
 imageElementShouldBeDisplayed(): The windows img is |oneImg|
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |oneImg|
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
-getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\One.png|
+getRefImageAsString(): The refImg is|oneImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\One.png|
 findElementByImage(): Starting to wait for oneImg
 findElementByImage() wait loop: Stil looking for oneImg
 imageElementShouldBeDisplayed(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 getCalculatorResultText(): The calculator result is 8
 Successfully closed input streams for data and object files!
 imageElementShouldBeDisplayed(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 imageElementShouldBeDisplayed(): The windows img is |multiplyImg|
-getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|
+getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|
 findElementByImage(): Starting to wait for multiplyImg
 findElementByImage() wait loop: Stil looking for multiplyImg
-getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|
+getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|
 findElementByImage(): Starting to wait for multiplyImg
 findElementByImage() wait loop: Stil looking for multiplyImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |multiplyImg|
-getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|
+getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|
 findElementByImage(): Starting to wait for multiplyImg
 findElementByImage() wait loop: Stil looking for multiplyImg
-getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Multiply.png|
+getRefImageAsString(): The refImg is|multiplyImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Multiply.png|
 findElementByImage(): Starting to wait for multiplyImg
 findElementByImage() wait loop: Stil looking for multiplyImg
 imageElementShouldBeDisplayed(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |nineImg|
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
-getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Nine.png|
+getRefImageAsString(): The refImg is|nineImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Nine.png|
 findElementByImage(): Starting to wait for nineImg
 findElementByImage() wait loop: Stil looking for nineImg
 imageElementShouldBeDisplayed(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 saveByteImage(): Image generated from the byte array.
 clickWindowsButtonUsingImage(): The windows img is |equalsImg|
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 Exception on attempt 1
-getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Equals.png|
+getRefImageAsString(): The refImg is|equalsImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Equals.png|
 findElementByImage(): Starting to wait for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
 findElementByImage() wait loop: Stil looking for equalsImg
@@ -197,17 +197,17 @@ findElementByImage() has exception An unknown server-side error occurred while p
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [e4ab2d13-38d8-4616-a6d9-87e5d64f6183, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXsAAAB5CAYAAADYgYG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAMASURBVHhe7du9atVgHMfxDN6BFyAO3bwFb0Sc3WpxcHD0Rjw4KGhB6eDmZoUKFaTllMo5+NLzIrW1Qw9CDw6PJFAQTceCye8T+AQCyf/ZvoTwpJrP52W5XALQcbPZrBwfH5fFYvGPajQaFcEH6K6zs7MynU7LeDxuDX2tOjk5KTs7O2Vvb6+5ub4GoBvqbg+Hw7K7u9tct4W+VtWn09PTMplMmuBvb28D0BH7+/tN8OuO/x34PzWxB6DfxB4gQBP76eFJWR1slutrz0t16xEAHbFyb708eLpVPn9r34VzrnozPGgdAEC3vP7wpTX0tartAQC658rtQZkc/hB7gL6rP+mIPUDP3bj/QuwBEog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe3rj5sNX5e7jrUtTz29bF7pA7OmNn8tf5TKPen7butAFYk9v1G/fG++/Xpp6ftu60AViDxBA7AECiD1AALEHCCD2AAHEnt6wGwcuJvb0hn32cDGxpzf8QQsXE3uAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AP03LXVZ2IP0Hdrg7diD9B3n+ZH7bF/uTVqfQCAbtl4N24Nfa2qT+PZUVkdbJard560DgDg/7Ryb73p98eD762RP9fEHoA+W5Tfqf8joNr96JUAAAAASUVORK5CYII=}]
+Command: [fdf69e55-a750-4f5c-adc5-4a5cdd97394d, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXsAAAB5CAYAAADYgYG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAMASURBVHhe7du9atVgHMfxDN6BFyAO3bwFb0Sc3WpxcHD0Rjw4KGhB6eDmZoUKFaTllMo5+NLzIrW1Qw9CDw6PJFAQTceCye8T+AQCyf/ZvoTwpJrP52W5XALQcbPZrBwfH5fFYvGPajQaFcEH6K6zs7MynU7LeDxuDX2tOjk5KTs7O2Vvb6+5ub4GoBvqbg+Hw7K7u9tct4W+VtWn09PTMplMmuBvb28D0BH7+/tN8OuO/x34PzWxB6DfxB4gQBP76eFJWR1slutrz0t16xEAHbFyb708eLpVPn9r34VzrnozPGgdAEC3vP7wpTX0tartAQC658rtQZkc/hB7gL6rP+mIPUDP3bj/QuwBEog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe3rj5sNX5e7jrUtTz29bF7pA7OmNn8tf5TKPen7butAFYk9v1G/fG++/Xpp6ftu60AViDxBA7AECiD1AALEHCCD2AAHEnt6wGwcuJvb0hn32cDGxpzf8QQsXE3uAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AP03LXVZ2IP0Hdrg7diD9B3n+ZH7bF/uTVqfQCAbtl4N24Nfa2qT+PZUVkdbJard560DgDg/7Ryb73p98eD762RP9fEHoA+W5Tfqf8joNr96JUAAAAASUVORK5CYII=}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: e4ab2d13-38d8-4616-a6d9-87e5d64f6183
+Session ID: fdf69e55-a750-4f5c-adc5-4a5cdd97394d
 findElementByImage() was trying to find equalsImg
 org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 6632608
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [e4ab2d13-38d8-4616-a6d9-87e5d64f6183, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXsAAAB5CAYAAADYgYG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAMASURBVHhe7du9atVgHMfxDN6BFyAO3bwFb0Sc3WpxcHD0Rjw4KGhB6eDmZoUKFaTllMo5+NLzIrW1Qw9CDw6PJFAQTceCye8T+AQCyf/ZvoTwpJrP52W5XALQcbPZrBwfH5fFYvGPajQaFcEH6K6zs7MynU7LeDxuDX2tOjk5KTs7O2Vvb6+5ub4GoBvqbg+Hw7K7u9tct4W+VtWn09PTMplMmuBvb28D0BH7+/tN8OuO/x34PzWxB6DfxB4gQBP76eFJWR1slutrz0t16xEAHbFyb708eLpVPn9r34VzrnozPGgdAEC3vP7wpTX0tartAQC658rtQZkc/hB7gL6rP+mIPUDP3bj/QuwBEog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe3rj5sNX5e7jrUtTz29bF7pA7OmNn8tf5TKPen7butAFYk9v1G/fG++/Xpp6ftu60AViDxBA7AECiD1AALEHCCD2AAHEnt6wGwcuJvb0hn32cDGxpzf8QQsXE3uAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AP03LXVZ2IP0Hdrg7diD9B3n+ZH7bF/uTVqfQCAbtl4N24Nfa2qT+PZUVkdbJard560DgDg/7Ryb73p98eD762RP9fEHoA+W5Tfqf8joNr96JUAAAAASUVORK5CYII=}]
+Command: [fdf69e55-a750-4f5c-adc5-4a5cdd97394d, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXsAAAB5CAYAAADYgYG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAMASURBVHhe7du9atVgHMfxDN6BFyAO3bwFb0Sc3WpxcHD0Rjw4KGhB6eDmZoUKFaTllMo5+NLzIrW1Qw9CDw6PJFAQTceCye8T+AQCyf/ZvoTwpJrP52W5XALQcbPZrBwfH5fFYvGPajQaFcEH6K6zs7MynU7LeDxuDX2tOjk5KTs7O2Vvb6+5ub4GoBvqbg+Hw7K7u9tct4W+VtWn09PTMplMmuBvb28D0BH7+/tN8OuO/x34PzWxB6DfxB4gQBP76eFJWR1slutrz0t16xEAHbFyb708eLpVPn9r34VzrnozPGgdAEC3vP7wpTX0tartAQC658rtQZkc/hB7gL6rP+mIPUDP3bj/QuwBEog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe3rj5sNX5e7jrUtTz29bF7pA7OmNn8tf5TKPen7butAFYk9v1G/fG++/Xpp6ftu60AViDxBA7AECiD1AALEHCCD2AAHEnt6wGwcuJvb0hn32cDGxpzf8QQsXE3uAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AMEEHuAAGIPEEDsAQKIPUAAsQcIIPYAAcQeIIDYAwQQe4AAYg8QQOwBAog9QACxBwgg9gABxB4ggNgDBBB7gABiDxBA7AECiD1AALEHCCD2AAHEHiCA2AP03LXVZ2IP0Hdrg7diD9B3n+ZH7bF/uTVqfQCAbtl4N24Nfa2qT+PZUVkdbJard560DgDg/7Ryb73p98eD762RP9fEHoA+W5Tfqf8joNr96JUAAAAASUVORK5CYII=}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: e4ab2d13-38d8-4616-a6d9-87e5d64f6183
+Session ID: fdf69e55-a750-4f5c-adc5-4a5cdd97394d
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
@@ -221,11 +221,11 @@ Session ID: e4ab2d13-38d8-4616-a6d9-87e5d64f6183
 	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at stepdefinitions.Steps$1.apply(Steps.java:358)
+	at stepdefinitions.Steps$1.apply(Steps.java:340)
 	at stepdefinitions.Steps$1.apply(Steps.java:1)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
-	at stepdefinitions.Steps.findElementByImage(Steps.java:355)
-	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:183)
+	at stepdefinitions.Steps.findElementByImage(Steps.java:337)
+	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:165)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
@@ -268,7 +268,22 @@ Session ID: e4ab2d13-38d8-4616-a6d9-87e5d64f6183
 	at io.cucumber.junit.Cucumber$FinishTestRun.evaluate(Cucumber.java:248)
 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:42)
+	at org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)
+	at org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:72)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)
 	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
@@ -276,7 +291,7 @@ Session ID: e4ab2d13-38d8-4616-a6d9-87e5d64f6183
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
 clickWindowsButtonUsingImage(equalsImg) has exception Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "stepdefinitions.Steps.findElementByImage(String)" is null
 java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "stepdefinitions.Steps.findElementByImage(String)" is null
-	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:183)
+	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:165)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
@@ -319,7 +334,22 @@ java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.cl
 	at io.cucumber.junit.Cucumber$FinishTestRun.evaluate(Cucumber.java:248)
 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:42)
+	at org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)
+	at org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:72)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)
 	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
@@ -327,8 +357,8 @@ java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.cl
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
 checkCalculatorResult() has exception Cannot invoke "org.openqa.selenium.WebElement.getText()" because "stepdefinitions.Steps.calculatorResult" is null
 java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because "stepdefinitions.Steps.calculatorResult" is null
-	at stepdefinitions.Steps.getCalculatorResultText(Steps.java:513)
-	at stepdefinitions.Steps.checkCalculatorResult(Steps.java:503)
+	at stepdefinitions.Steps.getCalculatorResultText(Steps.java:495)
+	at stepdefinitions.Steps.checkCalculatorResult(Steps.java:485)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
@@ -371,7 +401,22 @@ java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.ge
 	at io.cucumber.junit.Cucumber$FinishTestRun.evaluate(Cucumber.java:248)
 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:42)
+	at org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)
+	at org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:72)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)
 	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
@@ -379,24 +424,24 @@ java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.ge
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
 Successfully closed input streams for data and object files!
 imageElementShouldBeDisplayed(): The windows img is |eightImg|
-getRefImageAsString(): The refImg is|eightImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Eight.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Eight.png|
+getRefImageAsString(): The refImg is|eightImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Eight.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Eight.png|
 findElementByImage(): Starting to wait for eightImg
 findElementByImage() wait loop: Stil looking for eightImg
 findElementByImage() has exception An unknown server-side error occurred while processing the command. Original error: 6644472
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [0f7caeb6-bf0b-42a0-a448-39133cb1161a, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXMAAABuCAYAAADVhfNjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANxSURBVHhe7dyxTSNRGIVR90EHlOASKIEOKIEOaIAKaIAGKACJzDJyioSRIHAAAWSD/lk/axZhezd8V+dIV7vrJf709MbD7Pn5edhsNmZm1smq28vlclgsFuO/Pz4+htnj4+Pw8PBgZmadbLVajUF/f38fQz7GvP3FzMz6nZibmQVs9vr6OqzXazMz62TV7XZXvot53bl8fX2ZmVknq25X0F9eXnb35rMBgC7V6byCLuYAnWtXLmIO0LG6Znl7exNzgJ59fn6OD0XFHKBj9UBUzAE6J+YAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmxNlsNsPNzc1wdnY2nJycjJvP58Pl5eXw9PS0/SnIIuZEWS6XY7hbxH/b7e3t9qchh5gTo07kLeSnp6fj6bw+K3d3d3+d1O/v78fPIYWYE6PifSjWFfaKfP3/xcXF9lPIIObEqEBXqOsEvs/V1dUu+JBEzIlxfn4+Rrr+3Of6+lrMiSTmxKhvq1Sk/+VkXtctkETMiVH35O3UXQ88f5remdcJHZKIOVGmJ+9932apP9vnkELMiVMRbyfwn6uHpEJOIjEnSr001B6E/raKvJeGSCTmxKiQtxN5BX16b16v8bcHpDVBJ42YE2H6cPPQVxOPvVgEvRJzItRJu0W6TuiHzLev/NdJHVKIORHa25+1Y9qdep3kIYWYE2H60POY//lZ6IWYE2H6mv6xu/B2zXLobh16I+ZEqHvyFvNDLwVNv9FSD0MhhZgTY/obEev0XQ9F65Req68pTq9XDv3+FuiRmBNlGvR9q6h7C5Q0Yk6cunKp65R2N16rb67UN168LEQqMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgAB/Yr4evgEH9rNhDYMzbAAAAABJRU5ErkJggg==}]
+Command: [6519c555-0426-40f7-b8e0-f42e31d9adcf, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXMAAABuCAYAAADVhfNjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANxSURBVHhe7dyxTSNRGIVR90EHlOASKIEOKIEOaIAKaIAGKACJzDJyioSRIHAAAWSD/lk/axZhezd8V+dIV7vrJf709MbD7Pn5edhsNmZm1smq28vlclgsFuO/Pz4+htnj4+Pw8PBgZmadbLVajUF/f38fQz7GvP3FzMz6nZibmQVs9vr6OqzXazMz62TV7XZXvot53bl8fX2ZmVknq25X0F9eXnb35rMBgC7V6byCLuYAnWtXLmIO0LG6Znl7exNzgJ59fn6OD0XFHKBj9UBUzAE6J+YAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmxNlsNsPNzc1wdnY2nJycjJvP58Pl5eXw9PS0/SnIIuZEWS6XY7hbxH/b7e3t9qchh5gTo07kLeSnp6fj6bw+K3d3d3+d1O/v78fPIYWYE6PifSjWFfaKfP3/xcXF9lPIIObEqEBXqOsEvs/V1dUu+JBEzIlxfn4+Rrr+3Of6+lrMiSTmxKhvq1Sk/+VkXtctkETMiVH35O3UXQ88f5remdcJHZKIOVGmJ+9932apP9vnkELMiVMRbyfwn6uHpEJOIjEnSr001B6E/raKvJeGSCTmxKiQtxN5BX16b16v8bcHpDVBJ42YE2H6cPPQVxOPvVgEvRJzItRJu0W6TuiHzLev/NdJHVKIORHa25+1Y9qdep3kIYWYE2H60POY//lZ6IWYE2H6mv6xu/B2zXLobh16I+ZEqHvyFvNDLwVNv9FSD0MhhZgTY/obEev0XQ9F65Req68pTq9XDv3+FuiRmBNlGvR9q6h7C5Q0Yk6cunKp65R2N16rb67UN168LEQqMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgAB/Yr4evgEH9rNhDYMzbAAAAABJRU5ErkJggg==}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: 0f7caeb6-bf0b-42a0-a448-39133cb1161a
+Session ID: 6519c555-0426-40f7-b8e0-f42e31d9adcf
 findElementByImage() was trying to find eightImg
 org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 6644472
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [0f7caeb6-bf0b-42a0-a448-39133cb1161a, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXMAAABuCAYAAADVhfNjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANxSURBVHhe7dyxTSNRGIVR90EHlOASKIEOKIEOaIAKaIAGKACJzDJyioSRIHAAAWSD/lk/axZhezd8V+dIV7vrJf709MbD7Pn5edhsNmZm1smq28vlclgsFuO/Pz4+htnj4+Pw8PBgZmadbLVajUF/f38fQz7GvP3FzMz6nZibmQVs9vr6OqzXazMz62TV7XZXvot53bl8fX2ZmVknq25X0F9eXnb35rMBgC7V6byCLuYAnWtXLmIO0LG6Znl7exNzgJ59fn6OD0XFHKBj9UBUzAE6J+YAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmxNlsNsPNzc1wdnY2nJycjJvP58Pl5eXw9PS0/SnIIuZEWS6XY7hbxH/b7e3t9qchh5gTo07kLeSnp6fj6bw+K3d3d3+d1O/v78fPIYWYE6PifSjWFfaKfP3/xcXF9lPIIObEqEBXqOsEvs/V1dUu+JBEzIlxfn4+Rrr+3Of6+lrMiSTmxKhvq1Sk/+VkXtctkETMiVH35O3UXQ88f5remdcJHZKIOVGmJ+9932apP9vnkELMiVMRbyfwn6uHpEJOIjEnSr001B6E/raKvJeGSCTmxKiQtxN5BX16b16v8bcHpDVBJ42YE2H6cPPQVxOPvVgEvRJzItRJu0W6TuiHzLev/NdJHVKIORHa25+1Y9qdep3kIYWYE2H60POY//lZ6IWYE2H6mv6xu/B2zXLobh16I+ZEqHvyFvNDLwVNv9FSD0MhhZgTY/obEev0XQ9F65Req68pTq9XDv3+FuiRmBNlGvR9q6h7C5Q0Yk6cunKp65R2N16rb67UN168LEQqMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgAB/Yr4evgEH9rNhDYMzbAAAAABJRU5ErkJggg==}]
+Command: [6519c555-0426-40f7-b8e0-f42e31d9adcf, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAXMAAABuCAYAAADVhfNjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANxSURBVHhe7dyxTSNRGIVR90EHlOASKIEOKIEOaIAKaIAGKACJzDJyioSRIHAAAWSD/lk/axZhezd8V+dIV7vrJf709MbD7Pn5edhsNmZm1smq28vlclgsFuO/Pz4+htnj4+Pw8PBgZmadbLVajUF/f38fQz7GvP3FzMz6nZibmQVs9vr6OqzXazMz62TV7XZXvot53bl8fX2ZmVknq25X0F9eXnb35rMBgC7V6byCLuYAnWtXLmIO0LG6Znl7exNzgJ59fn6OD0XFHKBj9UBUzAE6J+YAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmxNlsNsPNzc1wdnY2nJycjJvP58Pl5eXw9PS0/SnIIuZEWS6XY7hbxH/b7e3t9qchh5gTo07kLeSnp6fj6bw+K3d3d3+d1O/v78fPIYWYE6PifSjWFfaKfP3/xcXF9lPIIObEqEBXqOsEvs/V1dUu+JBEzIlxfn4+Rrr+3Of6+lrMiSTmxKhvq1Sk/+VkXtctkETMiVH35O3UXQ88f5remdcJHZKIOVGmJ+9932apP9vnkELMiVMRbyfwn6uHpEJOIjEnSr001B6E/raKvJeGSCTmxKiQtxN5BX16b16v8bcHpDVBJ42YE2H6cPPQVxOPvVgEvRJzItRJu0W6TuiHzLev/NdJHVKIORHa25+1Y9qdep3kIYWYE2H60POY//lZ6IWYE2H6mv6xu/B2zXLobh16I+ZEqHvyFvNDLwVNv9FSD0MhhZgTY/obEev0XQ9F65Req68pTq9XDv3+FuiRmBNlGvR9q6h7C5Q0Yk6cunKp65R2N16rb67UN168LEQqMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgABiDhBAzAECiDlAADEHCCDmAAHEHCCAmAMEEHOAAGIOEEDMAQKIOUAAMQcIIOYAAcQcIICYAwQQc4AAYg4QQMwBAog5QAAxBwgg5gABxBwggJgDBBBzgAB/Yr4evgEH9rNhDYMzbAAAAABJRU5ErkJggg==}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: 0f7caeb6-bf0b-42a0-a448-39133cb1161a
+Session ID: 6519c555-0426-40f7-b8e0-f42e31d9adcf
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
@@ -410,11 +455,11 @@ Session ID: 0f7caeb6-bf0b-42a0-a448-39133cb1161a
 	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at stepdefinitions.Steps$1.apply(Steps.java:358)
+	at stepdefinitions.Steps$1.apply(Steps.java:340)
 	at stepdefinitions.Steps$1.apply(Steps.java:1)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
-	at stepdefinitions.Steps.findElementByImage(Steps.java:355)
-	at stepdefinitions.Steps.imageElementShouldBeDisplayed(Steps.java:153)
+	at stepdefinitions.Steps.findElementByImage(Steps.java:337)
+	at stepdefinitions.Steps.imageElementShouldBeDisplayed(Steps.java:135)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
@@ -457,7 +502,22 @@ Session ID: 0f7caeb6-bf0b-42a0-a448-39133cb1161a
 	at io.cucumber.junit.Cucumber$FinishTestRun.evaluate(Cucumber.java:248)
 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:42)
+	at org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)
+	at org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:72)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)
 	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
@@ -465,24 +525,24 @@ Session ID: 0f7caeb6-bf0b-42a0-a448-39133cb1161a
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
 Successfully closed input streams for data and object files!
 clickWindowsButtonUsingImage(): The windows img is |sevenImg|
-getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\calculator-automation\src\assets\calculator\Seven.png|
+getRefImageAsString(): The refImg is|sevenImg| and the imagePath is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|and the computed Path is |C:\Users\vwilliams\Documents\GitHub\CalculatorAutomation\src\assets\calculator\Seven.png|
 findElementByImage(): Starting to wait for sevenImg
 findElementByImage() wait loop: Stil looking for sevenImg
 findElementByImage() has exception An unknown server-side error occurred while processing the command. Original error: 6645512
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [aa1c1c59-cda1-4691-af34-313f09e301a8, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAX4AAAByCAYAAABUb7ozAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANUSURBVHhe7dzNTRthGIXR9EEHlEAJlEAHlEAhVEADtMEWBCxgwwLzIxgh25JZMeEdjaUBO4mSVWbuOdKVEGG2jz8+O/xYLBatmZnlTPjNzML22/C/vr62T09P7f39vZmZjWTV7aZptna9tjX88/m8nc1m3cP19fv7u5mZjWTV7ep3dby+/t74reGvH357e2sBGK869VfPvzd+I/x1vfP8/Nw/BsCYbbv22Qh//dByuewfAWDM6qqnDvPDzm+Ev94YqDsiAMZvtVp1XR92XvgBJqx6LvwAQYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEnzjHx8ftzs7OX+3g4KB/GsZP+InzL+E/PDzsn4bxE37i3N3dtWdnZ3/c8AXi8vKyfxrGT/jhF+p6p6J/dHTUfwemQfhhizrxr0/79RsCTInwwxb7+/tO+0yW8MM3p6enTvtMmvDDN3t7e077TJrww4C7fRIIPwysP8njc/tMmfBDrz6rvz7t18kfpkr4oVd3+hX9uuOHKRN++NQ0Tbu7u9uF/+TkpP8uTJPwwycf4SSJ8MOnejO3ou9NXRIIP/Hqmmd92nfNQwLhJ55rHtIIP/F8moc0wk88f6KBNMJPtLraWV/zuN8nhfATbfi3efxvXVIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBmtVr9OfyPj4/tcrnsHwFgzObzedf1Yec3wv/y8tI+PDz0jwAwZrPZrOv6sPMb4a9Xh5ubm+4VAoBx+vj46KJ/e3v7pfG1jfDXmqZpz8/P2+vr6+70v+1nzMzs/1x1++rqqr24uOh6/vXfF+1P+osvoTmmVa8AAAAASUVORK5CYII=}]
+Command: [70b6944a-c6d3-4d26-ae41-3df6c98a1eb2, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAX4AAAByCAYAAABUb7ozAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANUSURBVHhe7dzNTRthGIXR9EEHlEAJlEAHlEAhVEADtMEWBCxgwwLzIxgh25JZMeEdjaUBO4mSVWbuOdKVEGG2jz8+O/xYLBatmZnlTPjNzML22/C/vr62T09P7f39vZmZjWTV7aZptna9tjX88/m8nc1m3cP19fv7u5mZjWTV7ep3dby+/t74reGvH357e2sBGK869VfPvzd+I/x1vfP8/Nw/BsCYbbv22Qh//dByuewfAWDM6qqnDvPDzm+Ev94YqDsiAMZvtVp1XR92XvgBJqx6LvwAQYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEnzjHx8ftzs7OX+3g4KB/GsZP+InzL+E/PDzsn4bxE37i3N3dtWdnZ3/c8AXi8vKyfxrGT/jhF+p6p6J/dHTUfwemQfhhizrxr0/79RsCTInwwxb7+/tO+0yW8MM3p6enTvtMmvDDN3t7e077TJrww4C7fRIIPwysP8njc/tMmfBDrz6rvz7t18kfpkr4oVd3+hX9uuOHKRN++NQ0Tbu7u9uF/+TkpP8uTJPwwycf4SSJ8MOnejO3ou9NXRIIP/Hqmmd92nfNQwLhJ55rHtIIP/F8moc0wk88f6KBNMJPtLraWV/zuN8nhfATbfi3efxvXVIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBmtVr9OfyPj4/tcrnsHwFgzObzedf1Yec3wv/y8tI+PDz0jwAwZrPZrOv6sPMb4a9Xh5ubm+4VAoBx+vj46KJ/e3v7pfG1jfDXmqZpz8/P2+vr6+70v+1nzMzs/1x1++rqqr24uOh6/vXfF+1P+osvoTmmVa8AAAAASUVORK5CYII=}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: aa1c1c59-cda1-4691-af34-313f09e301a8
+Session ID: 70b6944a-c6d3-4d26-ae41-3df6c98a1eb2
 findElementByImage() was trying to find sevenImg
 org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 6645512
 Build info: version: '4.8.2', revision: '826dbfc730'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20'
 Driver info: io.appium.java_client.windows.WindowsDriver
-Command: [aa1c1c59-cda1-4691-af34-313f09e301a8, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAX4AAAByCAYAAABUb7ozAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANUSURBVHhe7dzNTRthGIXR9EEHlEAJlEAHlEAhVEADtMEWBCxgwwLzIxgh25JZMeEdjaUBO4mSVWbuOdKVEGG2jz8+O/xYLBatmZnlTPjNzML22/C/vr62T09P7f39vZmZjWTV7aZptna9tjX88/m8nc1m3cP19fv7u5mZjWTV7ep3dby+/t74reGvH357e2sBGK869VfPvzd+I/x1vfP8/Nw/BsCYbbv22Qh//dByuewfAWDM6qqnDvPDzm+Ev94YqDsiAMZvtVp1XR92XvgBJqx6LvwAQYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEnzjHx8ftzs7OX+3g4KB/GsZP+InzL+E/PDzsn4bxE37i3N3dtWdnZ3/c8AXi8vKyfxrGT/jhF+p6p6J/dHTUfwemQfhhizrxr0/79RsCTInwwxb7+/tO+0yW8MM3p6enTvtMmvDDN3t7e077TJrww4C7fRIIPwysP8njc/tMmfBDrz6rvz7t18kfpkr4oVd3+hX9uuOHKRN++NQ0Tbu7u9uF/+TkpP8uTJPwwycf4SSJ8MOnejO3ou9NXRIIP/Hqmmd92nfNQwLhJ55rHtIIP/F8moc0wk88f6KBNMJPtLraWV/zuN8nhfATbfi3efxvXVIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBmtVr9OfyPj4/tcrnsHwFgzObzedf1Yec3wv/y8tI+PDz0jwAwZrPZrOv6sPMb4a9Xh5ubm+4VAoBx+vj46KJ/e3v7pfG1jfDXmqZpz8/P2+vr6+70v+1nzMzs/1x1++rqqr24uOh6/vXfF+1P+osvoTmmVa8AAAAASUVORK5CYII=}]
+Command: [70b6944a-c6d3-4d26-ae41-3df6c98a1eb2, findElement {using=-image, value=iVBORw0KGgoAAAANSUhEUgAAAX4AAAByCAYAAABUb7ozAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAANUSURBVHhe7dzNTRthGIXR9EEHlEAJlEAHlEAhVEADtMEWBCxgwwLzIxgh25JZMeEdjaUBO4mSVWbuOdKVEGG2jz8+O/xYLBatmZnlTPjNzML22/C/vr62T09P7f39vZmZjWTV7aZptna9tjX88/m8nc1m3cP19fv7u5mZjWTV7ep3dby+/t74reGvH357e2sBGK869VfPvzd+I/x1vfP8/Nw/BsCYbbv22Qh//dByuewfAWDM6qqnDvPDzm+Ev94YqDsiAMZvtVp1XR92XvgBJqx6LvwAQYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEnzjHx8ftzs7OX+3g4KB/GsZP+InzL+E/PDzsn4bxE37i3N3dtWdnZ3/c8AXi8vKyfxrGT/jhF+p6p6J/dHTUfwemQfhhizrxr0/79RsCTInwwxb7+/tO+0yW8MM3p6enTvtMmvDDN3t7e077TJrww4C7fRIIPwysP8njc/tMmfBDrz6rvz7t18kfpkr4oVd3+hX9uuOHKRN++NQ0Tbu7u9uF/+TkpP8uTJPwwycf4SSJ8MOnejO3ou9NXRIIP/Hqmmd92nfNQwLhJ55rHtIIP/F8moc0wk88f6KBNMJPtLraWV/zuN8nhfATbfi3efxvXVIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBG+AHCCD9AGOEHCCP8AGGEHyCM8AOEEX6AMMIPEEb4AcIIP0AY4QcII/wAYYQfIIzwA4QRfoAwwg8QRvgBwgg/QBjhBwgj/ABhhB8gjPADhBF+gDDCDxBmtVr9OfyPj4/tcrnsHwFgzObzedf1Yec3wv/y8tI+PDz0jwAwZrPZrOv6sPMb4a9Xh5ubm+4VAoBx+vj46KJ/e3v7pfG1jfDXmqZpz8/P2+vr6+70v+1nzMzs/1x1++rqqr24uOh6/vXfF+1P+osvoTmmVa8AAAAASUVORK5CYII=}]
 Capabilities {appium:app: Microsoft.WindowsCalculator..., appium:automationName: Windows, appium:plugins: images, appium:unicodeKeyboard: true, platformName: WINDOWS}
-Session ID: aa1c1c59-cda1-4691-af34-313f09e301a8
+Session ID: 70b6944a-c6d3-4d26-ae41-3df6c98a1eb2
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
@@ -496,11 +556,11 @@ Session ID: aa1c1c59-cda1-4691-af34-313f09e301a8
 	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at stepdefinitions.Steps$1.apply(Steps.java:358)
+	at stepdefinitions.Steps$1.apply(Steps.java:340)
 	at stepdefinitions.Steps$1.apply(Steps.java:1)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
-	at stepdefinitions.Steps.findElementByImage(Steps.java:355)
-	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:176)
+	at stepdefinitions.Steps.findElementByImage(Steps.java:337)
+	at stepdefinitions.Steps.clickWindowsButtonUsingImage(Steps.java:158)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
@@ -543,7 +603,22 @@ Session ID: aa1c1c59-cda1-4691-af34-313f09e301a8
 	at io.cucumber.junit.Cucumber$FinishTestRun.evaluate(Cucumber.java:248)
 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:42)
+	at org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)
+	at org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:72)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)
 	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)

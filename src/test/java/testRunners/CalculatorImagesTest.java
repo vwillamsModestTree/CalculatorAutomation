@@ -11,6 +11,6 @@ features = "src/test/java/featureFiles"
 
 )
 
-public class CalculatorImagesTests {
+public class CalculatorImagesTest {
 
 }

@@ -138,7 +138,7 @@ public class Steps {
 			// Try to avoid race conditions and the StaleElementReferenceException.
 			if (element != null) {
 				Assert.assertTrue(findElementByImage(img).isDisplayed());
-				saveByteImage(element.getAttribute("visual").getBytes(), img + ".png");
+//				saveByteImage(element.getAttribute("visual").getBytes(), img + ".png");
 			}
 		} catch (Exception e) {
 			System.err.println("imageElementShouldBeDisplayed() has exception " + e.getMessage());
@@ -216,8 +216,8 @@ public class Steps {
 			double similarityScore = 0;
 
 			// Save the images that will be compared for debugging:
-			saveByteImage(screenshot, "ScreenshotToCompare.png");
-			saveByteImage(originalImg, "OrigImageToCompare.png");
+//			saveByteImage(screenshot, "ScreenshotToCompare.png");
+//			saveByteImage(originalImg, "OrigImageToCompare.png");
 
 			// Get the similarity result and enable the visualization (for debugging)
 			SimilarityMatchingResult result = appSession.getImagesSimilarity(screenshot, originalImg,
@@ -229,9 +229,9 @@ public class Steps {
 			System.out
 					.println("iTakeAScreenshotAndCompareWithOtherImage(): The similarity score is " + similarityScore);
 
-			if (result.getVisualization() != null) {
-				saveByteImage(result.getVisualization(), imgToCompare + "_Visualization.png");
-			}
+//			if (result.getVisualization() != null) {
+//				saveByteImage(result.getVisualization(), imgToCompare + "_Visualization.png");
+//			}
 
 			Assert.assertTrue(similarityScore > 0.95);
 
